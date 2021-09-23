@@ -1,0 +1,16 @@
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\bin\Debug\net5.0\HelloYall.exe
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\bin\Debug\net5.0\HelloYall.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\bin\Debug\net5.0\HelloYall.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\bin\Debug\net5.0\HelloYall.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\bin\Debug\net5.0\HelloYall.dll
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\bin\Debug\net5.0\ref\HelloYall.dll
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\bin\Debug\net5.0\HelloYall.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.dll
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\ref\HelloYall.dll
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\HelloYall\HelloYall\obj\Debug\net5.0\HelloYall.genruntimeconfig.cache
